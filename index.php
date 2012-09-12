@@ -102,7 +102,7 @@
         </div>
         <div id="search" class="search">
             <form action="<?php echo $site_url ?>/search.php" method="get" accept-charset="utf-8">
-            <input type="radio" name="search" value="">
+            <input type="password" name="search" value="">
             <input type="submit" value="Go">
             </form>
         </div>
@@ -149,4 +149,5 @@
 
 
 </html>
+
 
