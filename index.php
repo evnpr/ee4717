@@ -1,6 +1,6 @@
 <?php
     $site_url = "/test/fun/ee4717";
-    $site_url = '/ee4717';
+#    $site_url = '/ee4717';
 ?>
 
 <html>
@@ -20,9 +20,9 @@
         }
 
         #header{
-        height: 40px;
-        width:  100%;
-        background-color: #bebebe;
+            height: 40px;
+            width:  100%;
+            background-color: #bebebe;
         }
 
         #logo{
@@ -40,46 +40,47 @@
         }
 
         #content{
-        width: 100%;
-        float: left;
+            width: 100%;
+            float: left;
         }
 
         #banner{
-        height: 300px;
-        width: 70%;
-        float:left;
+            height: 300px;
+            width: 70%;
+            float:left;
         }
 
         #sidebar-search{
-        height: 300px;
-        width: 29%;
-        float:right;
-        background-color: #bebebe;
+            height: 300px;
+            width: 29%;
+            float:right;
+            background-color: #bebebe;
         }
 
         .canteen{
-        height: 300px;
-        width: 70%;
-        float:left;
-        margin: 40 0 0 0;
+            height: 300px;
+            width: 70%;
+            float:left;
+            margin: 40 0 0 0;
         }
 
         .sidebar{
-        height: 300px;
-        width: 29%;
-        float:right;
-        background-color: #bebebe;
+            height: 300px;
+            width: 29%;
+            float:right;
+            background-color: #bebebe;
         }
 
         #footer{
-        height: 80px;
-        width: 100%;
-        background-color: #bebebe;
+            height: 80px;
+            width: 100%;
+            background-color: #bebebe;
         }
 
         .break{
             clear:both;
         }
+
     </style>
 
     <link rel="stylesheet" href="<?php echo $site_url; ?>/css/style.css" type="text/css" media="screen" charset="utf-8">
