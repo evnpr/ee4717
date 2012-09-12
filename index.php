@@ -23,6 +23,7 @@
             height: 40px;
             width:  100%;
             background-color: #bebebe;
+            position: fixed;
         }
 
         #logo{
@@ -151,5 +152,6 @@
 
 
 </html>
+
 
 
