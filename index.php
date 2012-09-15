@@ -1,5 +1,5 @@
 <?php
-    $site_url = "/test/fun/ee4717";
+#    $site_url = "/test/fun/ee4717";
 #    $site_url = '/ee4717';
 ?>
 
