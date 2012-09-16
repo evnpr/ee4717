@@ -95,7 +95,7 @@
         </div>
         <div id="menu" class="name">
             <span style="margin: 0 10 0 10;"><a href="">Home</a></span> 
-            <span style="margin: 0 10 0 10;"><a href="">About</a></span> 
+            <span style="margin: 0 10 0 10;"><a href="">About Us</a></span> 
             <span style="margin: 0 10 0 10;"><a href="">Restaurant</a></span> 
             <span style="margin: 0 10 0 10;"><a href="">Contact</a></span> 
             <span style="margin: 0 10 0 10;"><a href="">Login</a></span> 
@@ -150,3 +150,4 @@
 
 
 </html>
+
